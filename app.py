@@ -8,7 +8,7 @@ opcion = st.sidebar.selectbox(
 
 if opcion == "Home":
     st.title("Proyecto Módulo 1 – Fundamentos de Python")
-    st.write("Nombre del estudiante: TU NOMBRE AQUÍ")
+    st.write("Nombre del estudiante: Wili Carrasco")
     st.write("Curso: Especialización Python for Analytics - Módulo 1")
     st.write("Año: 2026")
     st.write("Objetivo: Desarrollar una app en Streamlit usando conceptos básicos de Python.")
