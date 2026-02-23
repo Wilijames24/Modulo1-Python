@@ -9,13 +9,6 @@ variables, condicionales, estructuras de datos, funciones, programación funcion
 - requirements.txt  
 - README.md  
 
-## Instrucciones de ejecución
-1. Instalar dependencias  
-   pip install -r requirements.txt  
-
-2. Ejecutar la aplicación  
-   streamlit run app.py  
-
 ## Autor
 Wili Carrasco 
 2026
